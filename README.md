@@ -1,120 +1,74 @@
 👋 Hi, I'm Puneeth Kumar B C
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Agentic+AI+Automation+Enthusiast;Deep+Learning+%7C+IoT+%7C+Computer+Vision;Problem+Solver+%26+Tech+Innovator" /> </div> <div align="center"> <img src="https://img.shields.io/badge/Based_in-Karnataka,_India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Automation-Engineer-00D8FF?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Focus-ML_%7C_DL_%7C_IoT-4CAF50?style=for-the-badge&logo=python&logoColor=white" /> </div> <br> <div align="center"> <a href="https://www.linkedin.com/in/puneeth-kumar-00a04730a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Puni45" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:puneethkumarbc44@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://leetcode.com/u/Punii45/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineering+Student;Deep+Learning+%26+Data+Analytics;IoT+%7C+Automation+%7C+Smart+Systems" /> </div> <div align="center"> <img src="https://img.shields.io/badge/Based_in-Karnataka,_India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" /> <img src="https://img.shields.io/badge/Focus-AI_%26_Machine_Learning-00D8FF?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Experience-AI_Projects_&_IoT-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" /> </div> <br> <div align="center"> <a href="https://www.linkedin.com/in/puneeth-kumar-00a04730a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Puni45" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:puneethkumarbc44@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://leetcode.com/u/Punii45/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </div>
 🚀 About Me
 
-AI & Machine Learning Engineering student passionate about building automation systems, real-time AI solutions, and ML-driven IoT applications. I love integrating sensors, hardware, and AI models to solve real-world problems.
+AI and Machine Learning Engineering student with strong skills in automation, IoT systems, and ML-driven problem-solving. Passionate about building intelligent systems that combine AI + Sensors + Real-time analytics to create practical solutions.
 
-🌟 What I Do:
+🌟 What defines me:
 
-🤖 AI-driven automation & intelligent systems
+🤖 AI & ML model development
 
-🌱 Smart agriculture & environmental analytics
+📊 Data analytics & predictive modeling
 
-📊 Deep Learning, ML modelling & data processing
+🌱 Smart agriculture & environmental AI systems
 
-🔧 IoT + Arduino + Sensor integration
+🔧 IoT & sensor-based automation
 
-🧠 Problem-solving using AI-powered workflows
+🎯 Strong fundamentals in DSA, DBMS & OS
 
-🎯 Career Goal
+💡 What I'm Currently Working On
 
-To become an Agentic AI Automation Engineer, applying machine learning, deep learning, and sensor-based intelligence to build scalable, automated solutions.
+🔭 Improving my Deep Learning & CNN-based classification
+
+🌱 Building IoT systems integrating sensors + ML
+
+🤝 Open to collaborating on AI projects, IoT, research, or automation systems
+
+💬 Ask me about Python, ML, IoT, Sensors, or Data Analysis
+
+⚡ Fun fact: I’ve built AI models using BOTH software + hardware combinations
 
 🛠 Tech Stack & Skills
-Languages
+<div align="center">
+Programming Languages
 
-✅ Python
-✅ C
-✅ C++
-✅ SQL
-✅ HTML & CSS
 
-Core Fundamentals
 
-✅ OOP
-✅ Operating Systems
-✅ DSA
-✅ DBMS
-✅ Computer Networks
-✅ NLP (Basics)
+
+
+
+
+
+
+
+
+
+AI, ML & DL
+
+
+
+
+
+
+
+
+IoT & Hardware
+
+
+
 
 Developer Tools
 
-✅ Git • VS Code • MS Office • Power BI
 
-🔬 Featured AI & IoT Projects
-🌱 Plant Growth Predictor (ML – Python)
 
-📌 06/2025
 
-Developed a machine learning model to classify plant health using environmental data.
 
-Compared KNN, Decision Tree, Random Forest & Gradient Boosting models.
 
-Provided data-driven insights for smart agriculture.
 
-🔗 Repo: https://github.com/Puni45/Plant-Growth-Predictor
 
-☁️ Weather Web Application (Web Dev – JavaScript)
+Fundamentals
 
-📌 06/2025
 
-Built a responsive web app using HTML, CSS & JS.
-
-Integrated OpenWeatherMap API for real-time weather updates.
-
-Displays temperature, humidity, wind speed, and conditions.
-
-🔗 Repo: https://github.com/Puni45/WEATHER-WEB-APPLICATION
-
-🍃 Spinach Leaf Age Predictor (IoT + ML + DL)
-
-📌 07/2025
-
-Built an IoT-based system using Arduino, DHT11, and LED reflectance sensors.
-
-Integrated a trained ML model for chlorophyll estimation & environmental analysis.
-
-Enabled real-time plant health monitoring.
-
-🔗 Repo:
-https://github.com/Puni45/Leaf-Age-Monitoring-Protocol-in-Spinach-leaf-using-IOT-Sensors
-
-🍚 Fake Rice Detection (AI + Hardware + CNN)
-
-📌 On-going
-
-Created an AI-powered system using image processing + sensors + CNN.
-
-Detects fake rice grains with high accuracy.
-
-Hardware + software integrated into a portable, low-cost prototype.
-
-🎓 Education
-Bachelor of Engineering – AI & Machine Learning
-
-Sir M Visvesvaraya Institute of Technology, Bengaluru
-📅 2022 – 2026
-🎯 CGPA: 9.02
-
-🏆 Achievements & Leadership
-
-🥇 Ranked 2nd class topper (2nd year – 2024)
-
-🏏 3× Winner – Hostel Cricket Tournament (2023–25)
-
-🤝 Represented school in Quiz & Debate competitions
-
-🤾 District-level Handball player
-
-🎉 Organized hostel events like Vaibhava & Kreedotsava (2025)
-
-📈 GitHub Stats
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Puni45&show_icons=true&theme=radical" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puni45&layout=compact&theme=radical" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puni45&theme=radical" /> </div>
-🤝 Let's Connect!
-<div align="center">
-
-Reach out for collaborations, AI projects, or automation ideas!
 
 
 
@@ -124,9 +78,90 @@ Reach out for collaborations, AI projects, or automation ideas!
 
 
 </div>
+🏆 Featured Projects
+<div align="center"> <table> <tr> <td width="50%" align="center"> <h3>🌱 Plant Growth Predictor</h3> <a href="https://github.com/Puni45/Plant-Growth-Predictor" target="_blank"> <img src="https://img.shields.io/badge/Repo_Link-4285F4?style=for-the-badge&logo=github&logoColor=white" /> </a><br> <img src="https://img.shields.io/badge/Python-ML_Model-00D8FF?style=flat-square" /> <br><br> <strong>ML model predicting plant health using soil & environmental parameters.</strong><br> • Compared KNN, Decision Tree, Random Forest, Gradient Boosting<br> • Smart agriculture insights & predictions </td>
+  <td width="50%" align="center">
+    <h3>☁️ Weather Web Application</h3>
+    <a href="https://github.com/Puni45/WEATHER-WEB-APPLICATION" target="_blank">
+      <img src="https://img.shields.io/badge/Repo_Link-4285F4?style=for-the-badge&logo=github&logoColor=white" />
+    </a><br>
+    <img src="https://img.shields.io/badge/Frontend-HTML_CSS_JS-FFD700?style=flat-square" />
+    <br><br>
+    <strong>Real-time responsive weather app.</strong><br>
+    • Uses OpenWeatherMap API<br>
+    • Displays temperature, humidity, wind speed
+  </td>
+</tr>
+
+<tr>
+  <td width="50%" align="center">
+    <h3>🍃 Spinach Leaf Age Predictor (IoT + ML)</h3>
+    <a href="https://github.com/Puni45/Leaf-Age-Monitoring-Protocol-in-Spinach-leaf-using-IOT-Sensors" target="_blank">
+      <img src="https://img.shields.io/badge/Repo_Link-4285F4?style=for-the-badge&logo=github&logoColor=white" />
+    </a><br>
+    <img src="https://img.shields.io/badge/IoT-Arduino_%7C_Sensors-4CAF50?style=flat-square" />
+    <br><br>
+    <strong>IoT-based spinach leaf age detection system.</strong><br>
+    • Uses DHT11 + LED reflectance sensors<br>
+    • ML for chlorophyll estimation & plant health monitoring
+  </td>
+
+  <td width="50%" align="center">
+    <h3>🍚 Fake Rice Detection (CNN Model)</h3>
+    <img src="https://img.shields.io/badge/Deep_Learning-CNN_Model-FF4B4B?style=flat-square" /><br><br>
+    <strong>AI system identifying fake rice grains.</strong><br>
+    • CNN-based image classification<br>
+    • Sensor + hardware integration<br>
+    • Low-cost prototype for real-time food quality inspection
+  </td>
+</tr>
+
+</table> </div>
+📈 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Puni45&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puni45&layout=compact&langs_count=8&theme=radical"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puni45&theme=radical" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puni45&theme=redical&hide_border=true" width="100%" /> </div>
+🏆 Achievements & Highlights
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Puni45&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> </div>
+
+✨ Recent Highlights:
+
+🥇 Ranked 2nd Class Topper – 2024
+
+🏏 Won 3× Hostel Cricket Tournament (2023–25)
+
+🏅 Represented school in Quiz & Debate Competitions
+
+🤾 District-level Handball Player
+
+🎉 Organized events like Vaibhava & Kreedotsava (2025)
+
+📞 Let's Connect & Collaborate!
 <div align="center">
 
-⭐ If you like my work, consider starring my projects!
-Made with passion for AI, ML, IoT & Automation 🚀
+🤝 Open to AI Projects | IoT Systems | Automation | ML Collaborations
+
+
+
+
+
+
+
+
+<br>
+
+📧 Quick Contact: puneethkumarbc44@gmail.com
+
+📍 Location: Karnataka, India
+🌐 Timezone: IST (UTC +5:30)
+
+</div>
+<div align="center">
+
+⭐ If you like my projects, please consider starring my repositories!
+
+<img src="https://komarev.com/ghpvc/?username=Puni45&style=for-the-badge&color=blue" />
+
+Made with ❤️ for AI, ML, IoT & Smart Systems
+
+"The future belongs to those who build intelligent systems."
 
 </div>
